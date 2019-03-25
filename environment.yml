@@ -1,0 +1,11 @@
+name: pugliese
+
+channels:
+  - defaults
+
+dependencies:
+  - numpy
+  - astropy
+  - scikit-learn
+  - matplotlib
+  - jupyter
