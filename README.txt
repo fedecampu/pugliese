@@ -8,7 +8,7 @@ This program works to complete the flux calibration of OPERA Reduction.
 
 TO RUN:
 
->> sorce pugliese.sh
+>> source pugliese.sh
 
 
 IMPORTANT:
